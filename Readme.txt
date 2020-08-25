@@ -9,3 +9,8 @@ prototype 包  原型模式
 builder  包  建造者模式
          no   包  传统方式实现
       improve 包  建造者模式实现
+
+adapter 包   接口适配模式
+   classAdapter     包  类适配器模式
+   objectAdapter    包  对象适配器模式
+   interfaceAdapter 包  接口适配器模式（缺省适配器模式）
