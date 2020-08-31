@@ -14,3 +14,8 @@ adapter 包   接口适配模式
    classAdapter     包  类适配器模式
    objectAdapter    包  对象适配器模式
    interfaceAdapter 包  接口适配器模式（缺省适配器模式）
+
+brand  包    桥接模式
+
+
+decorator 包 适配者模式
