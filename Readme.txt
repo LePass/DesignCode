@@ -19,3 +19,6 @@ brand  包    桥接模式
 
 
 decorator 包 适配者模式
+
+
+composite 包  组合模式
